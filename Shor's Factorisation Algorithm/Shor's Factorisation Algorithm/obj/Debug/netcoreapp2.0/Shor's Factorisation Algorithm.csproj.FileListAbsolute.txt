@@ -1,0 +1,22 @@
+C:\Users\Samar\source\repos\Shor's Factorisation Algorithm\Shor's Factorisation Algorithm\bin\Debug\netcoreapp2.0\Shor's Factorisation Algorithm.deps.json
+C:\Users\Samar\source\repos\Shor's Factorisation Algorithm\Shor's Factorisation Algorithm\bin\Debug\netcoreapp2.0\Shor's Factorisation Algorithm.runtimeconfig.json
+C:\Users\Samar\source\repos\Shor's Factorisation Algorithm\Shor's Factorisation Algorithm\bin\Debug\netcoreapp2.0\Shor's Factorisation Algorithm.runtimeconfig.dev.json
+C:\Users\Samar\source\repos\Shor's Factorisation Algorithm\Shor's Factorisation Algorithm\bin\Debug\netcoreapp2.0\Shor's Factorisation Algorithm.dll
+C:\Users\Samar\source\repos\Shor's Factorisation Algorithm\Shor's Factorisation Algorithm\bin\Debug\netcoreapp2.0\Shor's Factorisation Algorithm.pdb
+C:\Users\Samar\source\repos\Shor's Factorisation Algorithm\Shor's Factorisation Algorithm\obj\Debug\netcoreapp2.0\Shor's Factorisation Algorithm.csprojAssemblyReference.cache
+C:\Users\Samar\source\repos\Shor's Factorisation Algorithm\Shor's Factorisation Algorithm\obj\Debug\netcoreapp2.0\Shor's Factorisation Algorithm.csproj.CoreCompileInputs.cache
+C:\Users\Samar\source\repos\Shor's Factorisation Algorithm\Shor's Factorisation Algorithm\obj\Debug\netcoreapp2.0\Shor's Factorisation Algorithm.AssemblyInfoInputs.cache
+C:\Users\Samar\source\repos\Shor's Factorisation Algorithm\Shor's Factorisation Algorithm\obj\Debug\netcoreapp2.0\Shor's Factorisation Algorithm.AssemblyInfo.cs
+C:\Users\Samar\source\repos\Shor's Factorisation Algorithm\Shor's Factorisation Algorithm\obj\Debug\netcoreapp2.0\Shor's Factorisation Algorithm.dll
+C:\Users\Samar\source\repos\Shor's Factorisation Algorithm\Shor's Factorisation Algorithm\obj\Debug\netcoreapp2.0\Shor's Factorisation Algorithm.pdb
+C:\Users\Samar\Desktop\Quantum Interface\Assets\Shor's Factorisation Algorithm\Shor's Factorisation Algorithm\bin\Debug\netcoreapp2.0\Shor's Factorisation Algorithm.deps.json
+C:\Users\Samar\Desktop\Quantum Interface\Assets\Shor's Factorisation Algorithm\Shor's Factorisation Algorithm\bin\Debug\netcoreapp2.0\Shor's Factorisation Algorithm.runtimeconfig.json
+C:\Users\Samar\Desktop\Quantum Interface\Assets\Shor's Factorisation Algorithm\Shor's Factorisation Algorithm\bin\Debug\netcoreapp2.0\Shor's Factorisation Algorithm.runtimeconfig.dev.json
+C:\Users\Samar\Desktop\Quantum Interface\Assets\Shor's Factorisation Algorithm\Shor's Factorisation Algorithm\bin\Debug\netcoreapp2.0\Shor's Factorisation Algorithm.dll
+C:\Users\Samar\Desktop\Quantum Interface\Assets\Shor's Factorisation Algorithm\Shor's Factorisation Algorithm\bin\Debug\netcoreapp2.0\Shor's Factorisation Algorithm.pdb
+C:\Users\Samar\Desktop\Quantum Interface\Assets\Shor's Factorisation Algorithm\Shor's Factorisation Algorithm\obj\Debug\netcoreapp2.0\Shor's Factorisation Algorithm.csprojAssemblyReference.cache
+C:\Users\Samar\Desktop\Quantum Interface\Assets\Shor's Factorisation Algorithm\Shor's Factorisation Algorithm\obj\Debug\netcoreapp2.0\Shor's Factorisation Algorithm.csproj.CoreCompileInputs.cache
+C:\Users\Samar\Desktop\Quantum Interface\Assets\Shor's Factorisation Algorithm\Shor's Factorisation Algorithm\obj\Debug\netcoreapp2.0\Shor's Factorisation Algorithm.AssemblyInfoInputs.cache
+C:\Users\Samar\Desktop\Quantum Interface\Assets\Shor's Factorisation Algorithm\Shor's Factorisation Algorithm\obj\Debug\netcoreapp2.0\Shor's Factorisation Algorithm.AssemblyInfo.cs
+C:\Users\Samar\Desktop\Quantum Interface\Assets\Shor's Factorisation Algorithm\Shor's Factorisation Algorithm\obj\Debug\netcoreapp2.0\Shor's Factorisation Algorithm.dll
+C:\Users\Samar\Desktop\Quantum Interface\Assets\Shor's Factorisation Algorithm\Shor's Factorisation Algorithm\obj\Debug\netcoreapp2.0\Shor's Factorisation Algorithm.pdb
