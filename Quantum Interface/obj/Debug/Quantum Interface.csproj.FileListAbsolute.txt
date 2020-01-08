@@ -1,0 +1,30 @@
+C:\Users\Samar\source\repos\Quantum Interface\Quantum Interface\bin\Debug\Quantum Interface.exe.config
+C:\Users\Samar\source\repos\Quantum Interface\Quantum Interface\bin\Debug\Quantum Interface.exe
+C:\Users\Samar\source\repos\Quantum Interface\Quantum Interface\bin\Debug\Quantum Interface.pdb
+C:\Users\Samar\source\repos\Quantum Interface\Quantum Interface\obj\Debug\Quantum Interface.csprojAssemblyReference.cache
+C:\Users\Samar\source\repos\Quantum Interface\Quantum Interface\obj\Debug\Quantum_Interface.Properties.Resources.resources
+C:\Users\Samar\source\repos\Quantum Interface\Quantum Interface\obj\Debug\Quantum Interface.csproj.GenerateResource.cache
+C:\Users\Samar\source\repos\Quantum Interface\Quantum Interface\obj\Debug\Quantum Interface.csproj.CoreCompileInputs.cache
+C:\Users\Samar\source\repos\Quantum Interface\Quantum Interface\obj\Debug\Quantum Interface.exe
+C:\Users\Samar\source\repos\Quantum Interface\Quantum Interface\obj\Debug\Quantum Interface.pdb
+C:\Users\Samar\source\repos\Quantum Interface\Quantum Interface\obj\Debug\Quantum_Interface.Main_Window.resources
+C:\Users\Samar\Desktop\Quantum Interface\Quantum Interface\bin\Debug\Quantum Interface.exe.config
+C:\Users\Samar\Desktop\Quantum Interface\Quantum Interface\bin\Debug\Quantum Interface.exe
+C:\Users\Samar\Desktop\Quantum Interface\Quantum Interface\bin\Debug\Quantum Interface.pdb
+C:\Users\Samar\Desktop\Quantum Interface\Quantum Interface\obj\Debug\Quantum Interface.csprojAssemblyReference.cache
+C:\Users\Samar\Desktop\Quantum Interface\Quantum Interface\obj\Debug\Quantum_Interface.Main_Window.resources
+C:\Users\Samar\Desktop\Quantum Interface\Quantum Interface\obj\Debug\Quantum_Interface.Properties.Resources.resources
+C:\Users\Samar\Desktop\Quantum Interface\Quantum Interface\obj\Debug\Quantum Interface.csproj.GenerateResource.cache
+C:\Users\Samar\Desktop\Quantum Interface\Quantum Interface\obj\Debug\Quantum Interface.csproj.CoreCompileInputs.cache
+C:\Users\Samar\Desktop\Quantum Interface\Quantum Interface\obj\Debug\Quantum Interface.exe
+C:\Users\Samar\Desktop\Quantum Interface\Quantum Interface\obj\Debug\Quantum Interface.pdb
+C:\Users\samar\Documents\Programming\C#\Quantum Interface\Quantum Interface\Quantum Interface\bin\Debug\Quantum Interface.exe.config
+C:\Users\samar\Documents\Programming\C#\Quantum Interface\Quantum Interface\Quantum Interface\bin\Debug\Quantum Interface.exe
+C:\Users\samar\Documents\Programming\C#\Quantum Interface\Quantum Interface\Quantum Interface\bin\Debug\Quantum Interface.pdb
+C:\Users\samar\Documents\Programming\C#\Quantum Interface\Quantum Interface\Quantum Interface\obj\Debug\Quantum Interface.csprojAssemblyReference.cache
+C:\Users\samar\Documents\Programming\C#\Quantum Interface\Quantum Interface\Quantum Interface\obj\Debug\Quantum_Interface.Main_Window.resources
+C:\Users\samar\Documents\Programming\C#\Quantum Interface\Quantum Interface\Quantum Interface\obj\Debug\Quantum_Interface.Properties.Resources.resources
+C:\Users\samar\Documents\Programming\C#\Quantum Interface\Quantum Interface\Quantum Interface\obj\Debug\Quantum Interface.csproj.GenerateResource.cache
+C:\Users\samar\Documents\Programming\C#\Quantum Interface\Quantum Interface\Quantum Interface\obj\Debug\Quantum Interface.csproj.CoreCompileInputs.cache
+C:\Users\samar\Documents\Programming\C#\Quantum Interface\Quantum Interface\Quantum Interface\obj\Debug\Quantum Interface.exe
+C:\Users\samar\Documents\Programming\C#\Quantum Interface\Quantum Interface\Quantum Interface\obj\Debug\Quantum Interface.pdb
